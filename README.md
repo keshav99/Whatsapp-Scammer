@@ -1,4 +1,4 @@
-# Whatsapp-Scammer
+# Whatsapp-Spammer
  
  A Python script using Selenium for spamming someone with a lot of messages. 
  
